@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [False Shepherd](https://github.com/LeFalseShepherd)
+- Place: Oslo, Norway
+- Bio: I love my Cat Lulu!
+- GitHub: [LeFalseShepherd](https://github.com/LeFalseShepherd)
